@@ -291,22 +291,22 @@ html {
 }
 
 #gameTable td {
-    height: 28px;
-    width: 28px;
+    height: 25px;
+    width: 25px;
     padding: 0;
     border: 1px solid #888;
 }
 
 #gameTable th {
-    height: 28px;
-    width: 28px;
+    height: 25px;
+    width: 25px;
     padding: 0;
     border: 1px dashed #888;
 }
 
 .sideTable td {
-    height: 28px;
-    width: 28px;
+    height: 25px;
+    width: 25px;
     padding: 0;
     border: 1px solid #ccc;
 }
@@ -316,15 +316,15 @@ html {
 }
 
 #holdDiv, #nextDiv {
-    margin-top: 58px;
+    margin-top: 52px;
 }
 
 #holdDiv, #gameDiv {
-    margin-right: 28px;
+    margin-right: 25px;
 }
 
 .sideTable {
-    margin-bottom: 28px;
+    margin-bottom: 25px;
 }
 
 #gameDiv, .stats {
@@ -333,12 +333,12 @@ html {
 
 #mainDiv {
     margin: 0 auto;
-    width: 728px;
+    width: 725px;
     position: relative;
 }
 
 #topDiv {
-    margin-bottom: 28px;
+    margin-bottom: 25px;
 }
 
 #textDiv {
@@ -372,7 +372,7 @@ html {
 .stats {
     background: #eee;
     padding: 20px 15px 24px;
-    margin-bottom: 28px;
+    margin-bottom: 25px;
 }
 
 .stats p {

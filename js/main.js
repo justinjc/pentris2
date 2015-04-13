@@ -579,8 +579,8 @@ Game.prototype.refreshNextPieces = function() {
 // Populates next piece array
 Game.prototype.populateNextPieces = function() {
     var nextPieces = _.range(PIECE_TYPE.length);
-    nextPieces = [2,2,2,2,2,2,2,2,2,2,2];
-    //nextPieces = _.shuffle(nextPieces);
+    nextPieces = _.shuffle(nextPieces);
+    //nextPieces = [2,2,2,2,2,2,2,2,2,2,2]; // For debugging
 
     this.nextPieceTypes = this.nextPieceTypes.concat(nextPieces);
 };
