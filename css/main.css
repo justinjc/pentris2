@@ -333,7 +333,7 @@ html {
 
 #mainDiv {
     margin: 0 auto;
-    width: 725px;
+    width: 651px;
     position: relative;
 }
 
@@ -344,11 +344,11 @@ html {
 #textDiv {
     width: 100%;
     position: absolute;
-    top: 176px;
+    top: 189px;
     left: 0;
     text-align: center;
     font-weight: bold;
-    font-size: 81px;
+    font-size: 65px;
     opacity: 0;
 }
 
