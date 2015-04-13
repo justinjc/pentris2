@@ -783,15 +783,15 @@ Game.prototype.updateLevel = function(level) {
             this.tickSpeed = 1000 / 2.75;
             break;
         case 8:
-            this.garbageSpeed = 1000 * 30;
-            this.tickSpeed = 1000 / 2.75;
-            break;
-        case 9:
             this.garbageSpeed = 1000 * 20;
             this.tickSpeed = 1000 / 2.75;
             break;
+        case 9:
+            this.garbageSpeed = 1000 * 12;
+            this.tickSpeed = 1000 / 2.75;
+            break;
         case 10:
-            this.garbageSpeed = 1000 * 10;
+            this.garbageSpeed = 1000 * 8.5;
             this.tickSpeed = 1000 / 2.75;
             break;
         default:
