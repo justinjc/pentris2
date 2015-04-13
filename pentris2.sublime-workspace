@@ -1,0 +1,691 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bord",
+				"border-spacing"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"tick",
+				"tickSpeed"
+			],
+			[
+				"dis",
+				"disableControls"
+			],
+			[
+				"control",
+				"controlsEnabled"
+			],
+			[
+				"handPie",
+				"handlePieceDrops"
+			],
+			[
+				"re",
+				"refreshGhostPiece"
+			],
+			[
+				"clear",
+				"clearHoldColor"
+			],
+			[
+				"Hol",
+				"HoldPiece"
+			],
+			[
+				"hold",
+				"holdPieceType"
+			],
+			[
+				"gho",
+				"refreshGhostPiece"
+			],
+			[
+				"hol",
+				"holdPieceType"
+			],
+			[
+				"piece",
+				"pieceIdx"
+			],
+			[
+				"bo",
+				"boardPieces"
+			],
+			[
+				"pos",
+				"posY"
+			],
+			[
+				"draw",
+				"draw"
+			],
+			[
+				"Ghost",
+				"GhostPiece"
+			],
+			[
+				"righ",
+				"righter"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"board",
+				"boardState"
+			],
+			[
+				"fullR",
+				"fullRowIdx"
+			],
+			[
+				"nexPi",
+				"nextPieceTypes"
+			],
+			[
+				"nex",
+				"nextPieceTypes"
+			],
+			[
+				"color",
+				"colorCells"
+			],
+			[
+				"clea",
+				"clearBoardColor"
+			],
+			[
+				"boa",
+				"boardState"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"new",
+				"newBoardPiece"
+			],
+			[
+				"player",
+				"playerPiece"
+			],
+			[
+				"play",
+				"playerPiece"
+			],
+			[
+				"hand",
+				"handleDown"
+			],
+			[
+				"rotate",
+				"rotateForce"
+			],
+			[
+				"push",
+				"pushOffset"
+			],
+			[
+				"coord",
+				"coordX"
+			],
+			[
+				"BOARD",
+				"BOARD_WIDTH"
+			],
+			[
+				"rot",
+				"rotateForce"
+			],
+			[
+				"clo",
+				"cloneArr"
+			],
+			[
+				"Board",
+				"BoardPiece"
+			],
+			[
+				"po",
+				"posY"
+			],
+			[
+				"BOA",
+				"BOARD_WIDTH"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"pro",
+				"prototype"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 7272,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 13998,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 31594,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 60.0,
+		"selected_items":
+		[
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"syn jaca",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack install ",
+				"Package Control: Install Package"
+			],
+			[
+				"gosu usa",
+				"GoSublime: Usage & Tips"
+			],
+			[
+				"pac insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 402.0
+	},
+	"console":
+	{
+		"height": 276.0,
+		"history":
+		[
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"for i in range(13):",
+			"xrange(2)",
+			"explorer",
+			"?",
+			"exit",
+			"ls",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"1+1",
+			"1",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/dev/pentris2",
+		"/C/dev/pentris2/css",
+		"/C/dev/pentris2/js",
+		"/C/dev/pentris2/js/vendor"
+	],
+	"file_history":
+	[
+		"/C/Users/justin/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/justin/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/dev/pentris2/js/main.js.bak2",
+		"/C/tmp/test.js",
+		"/C/dev/pentris2/js/main.js",
+		"/C/dev/pentris2/js/plugins.js",
+		"/C/dev/pentris2/pentris2.sublime-project",
+		"/C/dev/test.py",
+		"/C/dev/pentris2/index.html",
+		"/C/dev/test.txt",
+		"/C/dev/pentris2/doc/TOC.md",
+		"/C/dev/pentris2/js/vendor/underscore-1.8.2.min.js",
+		"/C/dev/pentris/js/main.js",
+		"/C/Users/justin/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/justin/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/justin/Desktop/qwe.txt",
+		"/C/Program Files/Sublime Text 3/aweoiawje",
+		"/C/dev/codecipher/js/vendor/ace-min-noconflict/snippets/jack.js",
+		"/C/dev/codecipher/js/vendor/ace-min-noconflict/snippets/pascal.js",
+		"/C/dev/codecipher/js/vendor/google-code-prettify/prettify.css",
+		"/C/Users/justin/aweawe",
+		"/c/tsetests",
+		"/c/tset",
+		"/C/Users/justin/AppData/Roaming/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/C/dev/term/app/__init__.py",
+		"/C/dev/term/app/forms.py",
+		"/C/dev/term/app/views.py",
+		"/C/Users/justin/AppData/Roaming/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/C/Users/justin/AppData/Roaming/Sublime Text 3/Packages/GoSublime/9o.md",
+		"/C/Users/justin/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"showencou",
+			"2,2",
+			"currentStats",
+			"scoreDiv",
+			"unpause",
+			"textDiv",
+			"fadeto",
+			"showen",
+			"this.unpause();",
+			"disableControls",
+			"paise",
+			"togglepa",
+			"great",
+			"pentris",
+			"dropCombo +=",
+			"dropcombo +=",
+			"showEncouragement",
+			"fullrows",
+			"ENCOURAGEMENT_TEXT",
+			"encou",
+			"175px",
+			"font",
+			" ",
+			"w",
+			"dropCombo",
+			"linecombo",
+			"dropcombo",
+			"score",
+			"fullrows",
+			"fullrows3",
+			"settime",
+			"fullrow",
+			"//here",
+			"drop",
+			"type.down ",
+			".drop ",
+			"handle",
+			".drop ",
+			"dropped",
+			"getFullRows",
+			"handleCollision",
+			"gamedi",
+			"togglepau",
+			"this.ac",
+			"setin",
+			"button",
+			"disableControls",
+			"this.acti",
+			".down ",
+			".down",
+			"down =",
+			"iece.down",
+			".down",
+			"iece.down(",
+			"settim",
+			"enablec",
+			"start",
+			"nextPieces",
+			"start(",
+			"self",
+			"handlePieceDrops",
+			"refac",
+			"start",
+			"checkGameOver",
+			"handlePieceDrops",
+			"setTimeout",
+			"settime",
+			"enableControls",
+			"keyDownHandler",
+			"settime",
+			"handleCollision",
+			"type.drop",
+			"checkGameOver",
+			"giveNextPlayerPiece",
+			"handleRowClears",
+			"handleCollision",
+			"giveNextPlayerPiece",
+			"PIECE_DROP_DELAY",
+			"refacto",
+			"clearRowDelay",
+			"giveNextPlayerPiece",
+			"start(",
+			"this.holdpiece ",
+			"var nex",
+			"undraw",
+			"colorNextCells",
+			"holdpiece ",
+			"givenextplay",
+			"next-",
+			"clearBoardColor",
+			"clearBoardColor =",
+			"clearBoardColor ",
+			"draw",
+			"undra",
+			"this.holdPiece",
+			"this.holdPieceType",
+			"hold(",
+			".hold(",
+			"type.draw",
+			"hold = fun",
+			"hold(",
+			"hold",
+			"cell",
+			"\"",
+			"colorCells",
+			"colorcells",
+			"colorcells ",
+			"colorcell",
+			"refacto",
+			"this.holdPieceType",
+			"giveNextPlayerPiece",
+			"holdabl",
+			"hold",
+			"giveNextPlayerPiece()",
+			"giveNextPlayerPiece",
+			".hold",
+			"this.refreshGhostPiece(this.boardState, ",
+			".hold",
+			"refreshGhostPiece",
+			".hold",
+			"updateGhostPiece",
+			"giveNextPlayerPiece",
+			"next",
+			"clearRow",
+			"_u",
+			"giveNextPlayerPiece",
+			"start()",
+			"10"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"controlsEnabled",
+			"next-4-",
+			"next-3-",
+			"next-2-",
+			"next-1-",
+			"next-0-",
+			"next",
+			"hold",
+			"colorGameCells",
+			"this.refreshGhostPiece(",
+			"this.refreshGhostPiece(this.boardState);",
+			"this.updateGhostPiece(boardState);",
+			"clearRow",
+			"hold",
+			"drop",
+			"down",
+			"right",
+			"left",
+			"rotate",
+			"Unchecked"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6940,
+								6940
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5908.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2017,
+								2017
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 83.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31495,
+								31495
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 18560.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://C:\\Users\\justin\\AppData\\Roaming\\Sublime Text 3\\Packages\\GoSublime":
+	{
+		"height": 118.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 118.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "pentris2.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
