@@ -16,7 +16,8 @@ var LEVEL_PROGRESSION = [
     270,
     350,
     440,
-    540
+    540,
+    650
 ];
 
 var ENCOURAGEMENT_TEXT = [
@@ -783,15 +784,19 @@ Game.prototype.updateLevel = function(level) {
             this.tickSpeed = 1000 / 2.75;
             break;
         case 8:
-            this.garbageSpeed = 1000 * 20;
-            this.tickSpeed = 1000 / 2.75;
-            break;
-        case 9:
             this.garbageSpeed = 1000 * 12;
             this.tickSpeed = 1000 / 2.75;
             break;
-        case 10:
+        case 9:
             this.garbageSpeed = 1000 * 8.5;
+            this.tickSpeed = 1000 / 2.75;
+            break;
+        case 10:
+            this.garbageSpeed = 1000 * 6.5;
+            this.tickSpeed = 1000 / 2.75;
+            break;
+        case 11:
+            this.garbageSpeed = 1000 * 5;
             this.tickSpeed = 1000 / 2.75;
             break;
         default:
